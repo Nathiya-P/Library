@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BOOKS>
+	<BOOK>
+    	<NAME>The Call of the Wild</NAME>
+    	<AUTHOR>Jack London</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>09/01/2020</ISSUEDATE>
+    	<ISSUENUM>1389</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Tarzan of the Apes</NAME>
+    	<AUTHOR>Edgar Rice Burroughs</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>1129</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>The Alchemist</NAME>
+    	<AUTHOR>Paulo Coelho</AUTHOR>>
+    	<CATEGORY>Fiction</CATEGORY>
+    	<ISSUEDATE>20/12/2019</ISSUEDATE>
+    	<ISSUENUM>1000</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Harry Potter and the Sorcerer's Stone</NAME>
+    	<AUTHOR>J.K. Rowling</AUTHOR>>
+    	<CATEGORY>Fiction</CATEGORY>
+    	<ISSUEDATE>25/12/2019</ISSUEDATE>
+    	<ISSUENUM>1109</ISSUENUM>
+    </BOOK>
+     <BOOK>
+    	<NAME>The Spy Who Came in From the Cold</NAME>
+    	<AUTHOR>John Le Carré</AUTHOR>>
+    	<CATEGORY>Mystery</CATEGORY>
+    	<ISSUEDATE></ISSUEDATE>
+    	<ISSUENUM>887</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Gone Girl</NAME>
+    	<AUTHOR>Gillian Flynn</AUTHOR>>
+    	<CATEGORY>Mystery</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>1231</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>The Outsider</NAME>
+    	<AUTHOR>Stephen King</AUTHOR>>
+    	<CATEGORY>Fiction</CATEGORY>
+    	<ISSUEDATE>21/12/2019</ISSUEDATE>
+    	<ISSUENUM>999</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Under Occupation</NAME>
+    	<AUTHOR>Alan Furst</AUTHOR>>
+    	<CATEGORY>Fiction</CATEGORY>
+    	<ISSUEDATE>12/01/2020</ISSUEDATE>
+    	<ISSUENUM>1101</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>King Solomon’s Mines</NAME>
+    	<AUTHOR>H. Rider Haggard</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>08/01/2020</ISSUEDATE>
+    	<ISSUENUM>1239</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Kim</NAME>
+    	<AUTHOR>Rudyard Kipling</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>04/01/2020</ISSUEDATE>
+    	<ISSUENUM>1109</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Asymmetry</NAME>
+    	<AUTHOR>Lisa Halliday</AUTHOR>>
+    	<CATEGORY>Fiction</CATEGORY>
+    	<ISSUEDATE></ISSUEDATE>
+    	<ISSUENUM>887</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>The Maltese Falcon</NAME>
+    	<AUTHOR>Dashiell Hammett</AUTHOR>>
+    	<CATEGORY>Mystery</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>1304</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>The Girl with the Dragon Tattoo</NAME>
+    	<AUTHOR>Lisa Halliday</AUTHOR>>
+    	<CATEGORY>Mystery</CATEGORY>
+    	<ISSUEDATE>11/01/2020</ISSUEDATE>
+    	<ISSUENUM>908</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>And Then There Were None</NAME>
+    	<AUTHOR>Agatha Christie</AUTHOR>>
+    	<CATEGORY>Mystery</CATEGORY>
+    	<ISSUEDATE>02/01/2020</ISSUEDATE>
+    	<ISSUENUM>1223</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Rebecca</NAME>
+    	<AUTHOR>Daphne du Maurier</AUTHOR>>
+    	<CATEGORY>Mystery</CATEGORY>
+    	<ISSUEDATE>07/01/2020</ISSUEDATE>
+    	<ISSUENUM>887</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Notre-Dame</NAME>
+    	<AUTHOR>Ken Follett</AUTHOR>>
+    	<CATEGORY>History</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>857</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Sailing True North</NAME>
+    	<AUTHOR>Admiral James Stavridis</AUTHOR>>
+    	<CATEGORY>History</CATEGORY>
+    	<ISSUEDATE>03/01/2020</ISSUEDATE>
+    	<ISSUENUM>457</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Gods of the Upper Air</NAME>
+    	<AUTHOR>Charles King</AUTHOR>>
+    	<CATEGORY>History</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>224</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Stillness is the Key</NAME>
+    	<AUTHOR>Ryan Holiday</AUTHOR>>
+    	<CATEGORY>Non-Fiction</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>1234</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Ultralearning</NAME>
+    	<AUTHOR>Scott Youn</AUTHOR>>
+    	<CATEGORY>Non-Fiction</CATEGORY>
+    	<ISSUEDATE>08/01/2020</ISSUEDATE>
+    	<ISSUENUM>987</ISSUENUM>
+    </BOOK>
+     <BOOK>
+    	<NAME>Blowout</NAME>
+    	<AUTHOR>Rachel Maddow</AUTHOR>>
+    	<CATEGORY>History</CATEGORY>
+    	<ISSUEDATE>07/01/2020</ISSUEDATE>
+    	<ISSUENUM>234</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>20,000 Leagues Under the Sea</NAME>
+    	<AUTHOR>Jules Verne</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>09/01/2020</ISSUEDATE>
+    	<ISSUENUM>1452</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Treasure Island</NAME>
+    	<AUTHOR>Robert Louis Stevenson</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>1439</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>The Ghosts of Eden Park</NAME>
+    	<AUTHOR>Karen Abbott</AUTHOR>>
+    	<CATEGORY>History</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>899</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Bad Blood</NAME>
+    	<AUTHOR>Bad Blood</AUTHOR>>
+    	<CATEGORY>Non-Fiction</CATEGORY>
+    	<ISSUEDATE>03/01/2020</ISSUEDATE>
+    	<ISSUENUM>659</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Eat, Pray, Love</NAME>
+    	<AUTHOR>Elizabeth Gilbert</AUTHOR>>
+    	<CATEGORY>Non-Fiction</CATEGORY>
+    	<ISSUEDATE>03/01/2020</ISSUEDATE>
+    	<ISSUENUM>823</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>The Power of Less</NAME>
+    	<AUTHOR>Leo Babauta</AUTHOR>>
+    	<CATEGORY>Non-Fiction</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>812</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>A Brief History of Time</NAME>
+    	<AUTHOR>Stephen Hawking</AUTHOR>>
+    	<CATEGORY>Non-Fiction</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>1309</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>Ivanhoe</NAME>
+    	<AUTHOR>Walter Scott</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>06/01/2020</ISSUEDATE>
+    	<ISSUENUM>1299</ISSUENUM>
+    </BOOK>
+    <BOOK>
+    	<NAME>The Three Musketeers</NAME>
+    	<AUTHOR>Alexandre Dumas</AUTHOR>>
+    	<CATEGORY>Adventure</CATEGORY>
+    	<ISSUEDATE>08/01/2020</ISSUEDATE>
+    	<ISSUENUM>1145</ISSUENUM>
+    </BOOK>
+</BOOKS>
